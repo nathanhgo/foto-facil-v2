@@ -40,3 +40,12 @@ next-env.d.ts
 
 # turbo
 .turbo
+
+# local vscode settings
+.vscode/*
+
+# venv
+venv/
+.venv/
+env/
+.env
