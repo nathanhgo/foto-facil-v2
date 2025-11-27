@@ -66,7 +66,7 @@ export default function PersonalizedHeader({loggedIn}) {
           </Typography>
         </Link>
 
-        <Typography variant='h6' fontSize={{xs: 10, sm:20}} sx={{textAlign: 'center', fontStyle: 'italic', zIndex: 5}} >
+        <Typography variant='h6' fontSize={{xs: 0, sm:20}} sx={{textAlign: 'center', fontStyle: 'italic', zIndex: 5}} >
           Crie, edite e compartilhe suas fotos com facilidade!
         </Typography>
 
